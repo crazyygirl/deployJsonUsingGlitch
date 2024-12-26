@@ -47,5 +47,18 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "todos" :[
+    {
+      
+      "text": "Very informative."
+      
+    },
+    {
+    
+      "text": "I enjoyed reading this."
+     
+    }
   ]
+
 }
